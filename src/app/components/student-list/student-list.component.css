@@ -1,0 +1,14 @@
+.student-list > table {
+  margin: 1rem 0;
+  border: 1px solid #aaaaaa;
+}
+
+.student-list > table > thead {
+  background-color: #eeeeee;
+}
+
+.student-list > table td,
+.student-list > table th {
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+}

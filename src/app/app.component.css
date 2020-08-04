@@ -1,0 +1,9 @@
+.root-component {
+  margin: 5rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.student-edit > button#next-btn {
+  float: right;
+}
